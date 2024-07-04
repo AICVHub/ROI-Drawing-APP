@@ -1,0 +1,9 @@
+{
+  "videos": [
+    "path/to/video_file.mp4",
+    "path/to/camera_url"
+  ],
+  "images": [
+    "path/to/image_file.jpg"
+  ]
+}
