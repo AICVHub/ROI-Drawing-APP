@@ -11,7 +11,7 @@ Based on PyQT5; Drawing a ROI on frame. 一款基于PyQT5开发的ROI绘制小�
 
    ### Direct Execution, No Configuration Required:
 
-   Download from the release page:
+   Download from the release page: https://github.com/AICVHub/ROI-Drawing-APP/releases
 
    ### Source Code Execution, Environment Setup Required:
 
