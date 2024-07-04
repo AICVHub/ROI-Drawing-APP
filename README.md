@@ -1,11 +1,7 @@
----
-typora-root-url: data
----
-
 # ROI-Drawing-APP
 Based on PyQT5; Drawing a ROI on frame. 一款基于PyQT5开发的ROI绘制小程序。
 
-![](/draw_roi.gif)
+![](data/draw_roi.gif)
 
 ## 如何使用：
 
